@@ -1,5 +1,9 @@
 @import '../../_css/common';
 
+.relatedProducts {
+  width: 100%;
+  padding-top: var(--base);
+}
 .introContent {
   position: relative;
   margin-bottom: calc(var(--base) * 2);
